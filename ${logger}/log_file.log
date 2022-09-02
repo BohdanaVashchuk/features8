@@ -1,0 +1,4 @@
+[INFO ] 2022-09-02 22:53:40.982 [main] Main - Flat numbers[1, 3, 6, 5, 2, 3, 9, 5]
+[INFO ] 2022-09-02 22:53:40.992 [main] Main - Sorted numbers[1, 2, 3, 3, 5, 5, 6, 9]
+[INFO ] 2022-09-02 22:53:40.994 [main] Main - Null is changed to 55 number[1, 3, 6, 5, 2, 3, 9, 5, 55]
+[INFO ] 2022-09-02 22:53:40.998 [main] Main - [2, 6, 12, 10, 4, 6, 18, 10, 110]
